@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋  My name is Mitch and I'm a full-stack web and mobile developer, located in Denver, CO.</h2>
+
+<h2>Hi! I'm Mitchell Brenner — a software developer and proud alum of the University of Wisconsin–Madison 🦡</h2>
 
 ###
 
